@@ -10,8 +10,8 @@ python3 manage.py testserver
 ### OR Buid using Docker image
 Using Docker file
 ```
-docker build -t django-to_do_app .
-docker run --name=Django -td django-to_do_app
+docker build -t PlivoContacts .
+docker run --name=Django -td PlivoContacts
 ```
 
 ## Specs and feature
